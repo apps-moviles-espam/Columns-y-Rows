@@ -1,0 +1,4 @@
+#Tue Apr 02 20:04:52 ECT 2024
+base.0=/Users/edgardopanchana/Downloads/espam-flutter/columns_and_rows/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

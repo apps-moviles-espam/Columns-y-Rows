@@ -1,0 +1,1 @@
+ /Users/edgardopanchana/Downloads/espam-flutter/columns_and_rows/.dart_tool/flutter_build/761001a589d0ecbfca406698d81e02a0/native_assets.yaml: 
